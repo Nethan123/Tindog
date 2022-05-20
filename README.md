@@ -1,2 +1,1 @@
-# Tindog
-This is my Fabulous Tindog website!
+TinDog Starting Files
